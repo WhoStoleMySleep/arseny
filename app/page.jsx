@@ -33,7 +33,7 @@ export default async function HomeFitness() {
         <div className={styles.container}>
           <div className={styles.topInner}>
             <h1 className={`${styles.topTitle} ${myFont.className}`}>
-              Фитнес-клуб в центре Екатеринбурга
+              Фитнес-клуб
             </h1>
             <h2 className={styles.topSubtitle}>
               Достигайте новых высот с нашими профессиональными тренерами и
